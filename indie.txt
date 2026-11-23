@@ -1,0 +1,11 @@
+{
+    titulo: "Lacey's Wardrobe",
+    ano: 2024,
+    nota: 4.5,
+    genero: "Terror Psicológico / Visual Novel",
+    jogadores: "1 jogador",
+    desc: "Ajude Lacey a escolher os looks perfeitos para um dia agitado de passeios e encontros. Por trás da estética fofa dos jogos Flash dos anos 2000, esconde-se um segredo perturbador envolvendo um perseguidor obsessivo.",
+    capa: "indie/lacey.jpg",
+    modelo: "indie/lacey-jogo.glb",
+    jogo:indie/lacey.swf,
+},
